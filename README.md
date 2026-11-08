@@ -8,6 +8,6 @@
 
 24. Определить наибольшую из абсолютных величин произведений Ai * Cn-i+1.
     
-+защита(main-2.c)
++ защита(main-2.c)
 
 This project is licensed under the MIT License. See the LICENSE file for details.
